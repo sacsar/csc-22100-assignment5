@@ -42,7 +42,7 @@ Words per second: 127
 
 Extra Points:
 - 2 for outperforming me on the test set. (Be creative--can you improve on this fairly simple approach?)
-- 2 for having an implementation that runs faster than ~85 words per second on my laptop
+- 2 for having an implementation that runs faster than ~127 words per second on my laptop (disclosure: this was 85 wps before I removed some logging)
 
 *Tip* If you're going to work on the extra points, I suggest completing the assignment first, saving a copy (or making a git commit) and 
 then start trying to optimize your use of `StringBuilder` or whatever.
