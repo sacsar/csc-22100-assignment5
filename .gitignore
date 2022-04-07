@@ -13,4 +13,5 @@ bin
 .vscode
 
 
-data
+data/*
+!data/.gitkeep
